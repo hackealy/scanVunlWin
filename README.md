@@ -1,1 +1,1 @@
-# scanVunlWin
+Observe que este script inclui uma variedade de ferramentas e técnicas de teste, incluindo o uso do Metasploit para explorar a vulnerabilidade SMBv1, a varredura de arquivos robots.txt, a busca de títulos de página, a verificação de vulnerabilidades WebDAV e a pesquisa de URLs de administração do WordPress.
